@@ -19,15 +19,14 @@ students, and strategies for managing problem behavior will be
 emphasized throughout the course.
 
 ## Schedule
-July 12 - July 28, Monday - Friday 12:30 - 3:00
+July 10 - July 28, Monday - Friday 12:30 - 3:00
 
 
 ## Grading
 
- - 30% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
- - 30% : Use of effective methods in delivery of Topics project
- - 20% : Final portfolio
- - 20% : participation
+ - 40% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
+ - 30% : Final portfolio
+ - 25% : Assignments
 
 
 ## By the end of this course, students will be able to:
@@ -50,92 +49,85 @@ N/A
 | DL   | 1,2,3,4,5,6,7     |
 
 ### Topics
+1. July 10
+   - Administrivia, class logistics.
+   - Why should students study computer science?
+   - What is computer science?
+1. July 11
+   - What are the difficulties in teaching and learning computer science?
+   - Using GitHub to deliver content & collect student work.
+   - Using GitHub pages to publish course websites.
 1. July 12
-	- Why should students study computer science?
-	- What are the difficulties in teaching and learning computer science?
-	- What tools can we use to explore CS?
-	- Describe portfolio requirement (see last topic)
-	- Assignment: Bring in a lesson plan
+   - Pair programming lab
+   - Standards
+     - CT 10
 1. July 13
-	- Compare brought in lesson plans.
-  - Share key practices in plans.
-  - Assignment: Create a lesson plan based on prework.
-1. July 14
-	- Pair programming lab
-	- Standards
-  	- CT 10
-1. July 15
   - Live coding
   - what is it and why is it effective
   - live coding demo
   - lab: design and demo a live coding experience from a CS1 program
-1. July 18
+1. July 14
   - Live coding cont.
-	- Code Tracing
-1. July 19
-	- Code tracing cont.
-	- Assignment: Reflection on code tracing.
-1. July 20
+  - Code Tracing
+1. July 17
+  - Code tracing cont.
+  - Assignment: Reflection on code tracing.
+1. July 18
   - Unplugged activities
   - Standards
     - IC 1
-1. July 21
+1. July 19
   - Scaffolding assignments
-    - Code templates
+  - Code templates
   - starter code
   - code idioms
-   - Assignment: Analyze and existing program. What would you pull out
-     as starter code or code templates for a student assignment.
-   - Standards
-     - CT 4
-   - Using javadoc
-   - Making class resources easily available over the internet.
-     - Using a GitHub repository as a main class website.
-     - Using GitHub pages to serve an html/css/js website.
-1. July 22
-	- Introducing efficiency in non standard problems.
-	- Unsing industry standard tools in the classroom
- 	- Git for collecting work, associated support tools.
- 	- Git + GitHub for presenting materials for students and from students.
-	- Assignment
-		- Use GitHub Pages to create a portfolio website for your certification program courses so far.
+  - Assignment: Analyze and existing program. What would you pull out
+  as starter code or code templates for a student assignment.
+  - Standards
+    - CT 4
+  - Using javadoc
+1. July 20
+  - Introducing efficiency in non standard problems.
+  - Unsing industry standard tools in the classroom
+  - Git for collecting work, associated support tools.
+  - Git + GitHub for presenting materials for students and from students.
+  - Assignment
+  - Use GitHub Pages to create a portfolio website for your certification program courses so far.
+1. July 21
+  - Community & Collaboration in the CS classroom.
+  - Using other peoples code.
+  - Assignment: Design an experience that makes use of an existing library.
+1. July 24
+  -	Using library code
+  - "thwarting" assignments
+  - Ethical issues (copying vs collaborating)
+  - Standards
+  - IC 1,2
+  - CT 4
+  - SE techniques that can be used in the classroom
+  - coding standards
+  - Subgoal labeling
+  - lab/assignment: Break down a CS program with subgoal labels.
+  - Standards
+  - CT 9
 1. July 25
-	- Community & Collaboration in the CS classroom.
-	- Using other peoples code.
-	- Assignment: Design an experience that makes use of an existing library.
+  * Working with jsoup.
+  * Problems with using libraries in the classroom.
+  * Looking at Ria Galanos' java Twitter API assignment.
 1. July 26
-	-	Using library code
-	- "thwarting" assignments
-	- Ethical issues (copying vs collaborating)
-	- Standards
-		- IC 1,2
-		- CT 4
-	- SE techniques that can be used in the classroom
-	- coding standards
-	- Subgoal labeling
-	- lab/assignment: Break down a CS program with subgoal labels.
-	- Standards
-	 - CT 9
+  - "Nifty" assignments
+  - Debugging as a class technique part 1
+  - Code tracing review
+  - Print statement debugging
+  - Using debugging tools.
+  - NY State Standards Overview
 1. July 27
-	* Working with jsoup.
-	* Problems with using libraries in the classroom.
-	* Looking at Ria Galanos' java Twitter API assignment.
+  - Portfolio work
+  - Group collaboration
 1. July 28
-	- "Nifty" assignments
-	- Debugging as a class technique part 1
-		- Code tracing review
-		- Print statement debugging
-		- Using debugging tools.
-		- NY State Standards Overview
-1. July 29
-	- Portfolio work
-	- Group collaboration
-1. August 1
-  - Mystery day!
-1. August 2
-	- Portfolio work
-	- Group collaboration
-	- Course evaluations
+  - Portfolio work
+  - Group collaboration
+  - Course evaluations
 
 ---
 
