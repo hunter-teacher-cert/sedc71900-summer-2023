@@ -58,7 +58,9 @@ N/A
    - Using GitHub to deliver content & collect student work.
    - Using GitHub pages to publish course websites.
 1. July 12
-   - Pair programming lab
+   - Small pedagogical tools.
+     - Rubber ducks, Keys to Success, Team Flags.
+   - Pair programming.
    - Standards
      - CT 10
 1. July 13

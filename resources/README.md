@@ -1,7 +1,10 @@
 # Resources
-- Markdown help
+
+- **Markdown help**
   - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
   - <https://guides.github.com/features/mastering-markdown/>
-- HTML help
+- **HTML help**
   - <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
-  - <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>
+  - <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>\
+- **Rubber Duck Debugging**
+  - <https://rubberduckdebugging.com>

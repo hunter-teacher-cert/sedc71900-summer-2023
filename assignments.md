@@ -2,6 +2,9 @@
 
 These are the tasks with deliverables that have been assigned so far:
 
+
+---
+
 ### Tuesday, 7/11
 - Deliverables in repo:
   - `README.md`
