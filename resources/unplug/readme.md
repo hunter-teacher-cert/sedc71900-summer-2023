@@ -2,7 +2,7 @@
   * <https://csunplugged.org/en/topics/>
   * <https://classic.csunplugged.org/activities/>
   * <https://www.engage-csedu.org/search/materials>
-  * Graph paper programming: <https://code.org/curriculum/course2/1/Teacher>
+  * [Graph paper programming](https://code.org/curriculum/course2/1/Teacher)
   * [https://www.saravanderwerf.com/100-numbers-to-get-students-talking/](https://www.saravanderwerf.com/100-numbers-to-get-students-talking/)
   * [card sort challenge](http://brainu.org/lesson/card-sort-challenge)
   * [code.org's library of unplugged activities, sorted by courses or concepts](https://code.org/curriculum/unplugged)

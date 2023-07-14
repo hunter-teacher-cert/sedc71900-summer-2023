@@ -2,6 +2,16 @@
 
 These are the tasks with deliverables that have been assigned so far:
 
+---
+
+### Friday, 7/14
+
+---
+
+### Thursday, 7/13
+
+---
+
 ### Wednesday, 7/12
 Deliverables in repo:
 - `02_pair-framework.md`
