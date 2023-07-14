@@ -69,15 +69,14 @@ N/A
   - live coding demo
   - lab: design and demo a live coding experience from a CS1 program
 1. July 14
-  - Live coding cont.
-  - Code Tracing
-1. July 17
-  - Code tracing cont.
-  - Assignment: Reflection on code tracing.
-1. July 18
   - Unplugged activities
   - Standards
     - IC 1
+1. July 17
+  - Code tracing
+  - Assignment: Reflection on code tracing.
+1. July 18
+  - Skeletons
 1. July 19
   - Scaffolding assignments
   - Code templates
