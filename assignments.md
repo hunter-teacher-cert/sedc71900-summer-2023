@@ -4,6 +4,25 @@ These are the tasks with deliverables that have been assigned so far:
 
 ---
 
+### Tuesday, 7/18
+Deliverable in repo:
+- `06_scaffold/README.md`
+- `06_scaffold/<SOLUTION CODE>`
+- `06_scaffold/<SCAFFOLD CODE>`
+
+Details: Create a scaffolded code assignment for a java program.
+1. Start with a fully working java program. It can either be something you've written for a course this summer, or something new.
+2. Turn that program into a scaffolded assignment by removing parts and including pertinent comments.
+3. DELIVERABLE: 06_scaffold
+   - In your work repository, create a folder called 06_scaffold.
+   - Put BOTH your solution and scaffolded version in this folder.
+   - Create a README.md file with the following:
+     - A description of your learning objective.
+     - An explanation of why you kept/removed code in your scaffolded file.
+     - Examples of what you might add/delete
+
+---
+
 ### Friday, 7/14
 Deliverable in repo:
 - `04_unplugged.md`
