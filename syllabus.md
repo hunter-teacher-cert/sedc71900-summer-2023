@@ -134,7 +134,7 @@ N/A
 
 ## Lesson Plan assignment
 
-#### DUE Friday, 8/5 10:00am EDT
+#### DUE  10:00am EDT
 
 Students are to create two detailed lesson plans, with supporting materials for computer science lessons. The plans should be novel, and wholly written by yourself. But you will be giving time to discuss your plans with your classmates and incorperate their feedback if desired. Each lesson plan should demonstrate different pedogogical techniques presented during the course. For reference, here is a list of the specific methods topics covered this semester. You are not limited to these, but you should use at least 4 of them between your 2 lessons:
 
