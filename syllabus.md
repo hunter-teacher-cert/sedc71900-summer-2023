@@ -85,20 +85,18 @@ N/A
     - Standards
       - CT 4
 1. July 19
-    - Documentation  
-    - Using javadoc
+    - Debugging as a class technique part 1
+    - Code tracing review
+    - Print statement debugging
+    - Using debugging tools.
 1. July 20
-  - Introducing efficiency in non standard problems.
-  - Unsing industry standard tools in the classroom
-  - Git for collecting work, associated support tools.
-  - Git + GitHub for presenting materials for students and from students.
-  - Assignment
-  - Use GitHub Pages to create a portfolio website for your certification program courses so far.
+    - Async lesson plan project work.
 1. July 21
+    - Async lesson plan project work.
+1. July 24
   - Community & Collaboration in the CS classroom.
   - Using other peoples code.
   - Assignment: Design an experience that makes use of an existing library.
-1. July 24
   -	Using library code
   - "thwarting" assignments
   - Ethical issues (copying vs collaborating)
@@ -116,15 +114,12 @@ N/A
   * Problems with using libraries in the classroom.
   * Looking at Ria Galanos' java Twitter API assignment.
 1. July 26
+  - Documentation  
+  - Using javadoc
   - "Nifty" assignments
-  - Debugging as a class technique part 1
-  - Code tracing review
-  - Print statement debugging
-  - Using debugging tools.
   - NY State Standards Overview
 1. July 27
-  - Portfolio work
-  - Group collaboration
+   - Introducing efficiency in non standard problems.
 1. July 28
   - Portfolio work
   - Group collaboration
