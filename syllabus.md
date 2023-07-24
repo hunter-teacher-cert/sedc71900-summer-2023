@@ -94,25 +94,24 @@ N/A
 1. July 21
     - Async lesson plan project work.
 1. July 24
-  - Community & Collaboration in the CS classroom.
-  - Using other peoples code.
-  - Assignment: Design an experience that makes use of an existing library.
-  -	Using library code
-  - "thwarting" assignments
-  - Ethical issues (copying vs collaborating)
-  - Standards
-  - IC 1,2
-  - CT 4
-  - SE techniques that can be used in the classroom
-  - coding standards
-  - Subgoal labeling
-  - lab/assignment: Break down a CS program with subgoal labels.
-  - Standards
-  - CT 9
+    - Using other peoples code.
+    - Ethical issues (copying vs collaborating)
+    -	Using library code
+    - "thwarting" assignments
+    - Problems with using libraries in the classroom.
+    - Working with jsoup.
+    - Assignment: Design an experience that makes use of jsoup.
+    - Standards
+      - IC 1,2
+      - CT 4
 1. July 25
-  * Working with jsoup.
-  * Problems with using libraries in the classroom.
-  * Looking at Ria Galanos' java Twitter API assignment.
+   - Community & Collaboration in the CS classroom.
+   - SE techniques that can be used in the classroom
+   - coding standards
+   - Subgoal labeling
+   - lab/assignment: Break down a CS program with subgoal labels.
+   - Standards
+   - CT 9
 1. July 26
   - Documentation  
   - Using javadoc
