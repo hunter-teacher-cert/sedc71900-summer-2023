@@ -105,13 +105,9 @@ N/A
       - IC 1,2
       - CT 4
 1. July 25
-   - Community & Collaboration in the CS classroom.
-   - SE techniques that can be used in the classroom
-   - coding standards
-   - Subgoal labeling
-   - lab/assignment: Break down a CS program with subgoal labels.
-   - Standards
-   - CT 9
+    - Community & Collaboration in the CS classroom.
+    - Standards
+      - CT 9
 1. July 26
   - Documentation  
   - Using javadoc
