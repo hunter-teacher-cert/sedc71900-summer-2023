@@ -109,12 +109,14 @@ N/A
     - Standards
       - CT 9
 1. July 26
+    - Productive group work.
+    - Using presentations in class.
+1. July 27
   - Documentation  
   - Using javadoc
   - "Nifty" assignments
-  - NY State Standards Overview
-1. July 27
    - Introducing efficiency in non standard problems.
+   - NY State Standards Overview
 1. July 28
   - Portfolio work
   - Group collaboration
